@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nombre": "Naranja ombligo",
+        "precio": 300,
+        "img": "https://static.wixstatic.com/media/9167ec_3e26e2d7fadc4f6d89f7d174d958a03f~mv2.png/v1/fill/w_480,h_537,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9167ec_3e26e2d7fadc4f6d89f7d174d958a03f~mv2.png",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Manzana roja",
+        "precio": 500,
+        "img": "https://alberdisa.vteximg.com.br/arquivos/ids/157037-600-600/Manzana-Roja-Elegida-x-1-Kg.jpg?v=637375299217700000",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Manzana verde",
+        "precio": 450,
+        "img": "https://images.rappi.com.ar/products/0a166135-1ea8-419e-9c96-995fb4c0974a.png",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Mandarina",
+        "precio": 400,
+        "img": "https://www.frutality.es/wp-content/uploads/mandarina.png",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Uva roja",
+        "precio": 500,
+        "img": "https://goveganpanama.com/wp-content/uploads/2020/06/Uva-Roja.png",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Uva negra",
+        "precio": 550,
+        "img": "https://res.cloudinary.com/estebandiaz/image/upload/f_auto/cocinario-beta-foods/5f22b58d6eb30acead5eb7aa.png",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Pera",
+        "precio": 500,
+        "img": "https://lagranbodega.vteximg.com.br/arquivos/ids/204257-600-600/58AFYV151_1.jpg?v=636790598620570000",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Kiwi",
+        "precio": 800,
+        "img": "https://www.aweta.com/images/produces/overzicht/aweta-product-kiwi.png",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Pomelo rojo",
+        "precio": 750,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/217/469/products/kisspng-grapefruit-juice-lemon-essential-oil-red-honey-pomelo-fruit-5aa10a27965b12-36570327152050333561591-4c36d6236c8c310eb515943267783666-640-0.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Uva blanca",
+        "precio": 700,
+        "img": "https://res.cloudinary.com/estebandiaz/image/upload/f_auto/cocinario-beta-foods/5f22b58d6eb30acead5eb7a8.png",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "frutilla",
+        "precio": 900,
+        "img": "https://static.wixstatic.com/media/9167ec_d278bd50dc52462b8afbc8802ea5146c~mv2.png/v1/fill/w_2700,h_2353,al_c/9167ec_d278bd50dc52462b8afbc8802ea5146c~mv2.png",
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "nombre": "cereza",
+        "precio": 760,
+        "img": "https://www.lavanguardia.com/uploads/2021/05/18/60a37cd437daf.png",
+        "cantidad": 1
+    }
+]
